@@ -1,0 +1,13 @@
+{
+  "id": "12345678-87654321",
+  "comments": [
+    {
+      "commit": "12345678",
+      "comment": "ROD-123: I firstly did such and such"
+    },
+    {
+      "commit": "87654321",
+      "comment": "ROD-456: And then I did such and such"
+    }
+  ]
+}
