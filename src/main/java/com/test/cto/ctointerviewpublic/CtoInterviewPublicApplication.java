@@ -1,4 +1,4 @@
-package com.citi.cto.ctointerviewpublic;
+package com.test.cto.ctointerviewpublic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

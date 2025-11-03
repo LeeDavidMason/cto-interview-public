@@ -1,4 +1,4 @@
-package com.citi.cto.ctointerviewpublic;
+package com.test.cto.ctointerviewpublic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

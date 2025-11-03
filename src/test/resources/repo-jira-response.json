@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "jiraId": "ROD-123",
+      "commitHash": "12345678",
+      "jiraComments": [
+        "First comment",
+        "Second comment"
+      ]
+    }, {
+      "jiraId": "ROD-456",
+      "commitHash": "87654321",
+      "jiraComments": [
+        "First comment",
+        "Second comment"
+      ]
+    }
+  ]
+}
